@@ -8,7 +8,7 @@ class lab_06
         {
             Console.WriteLine();
 
-            string apiKey = "78a42a81f9fcfc14fa64cee749e70b59";
+            string apiKey = "5253a9f0fcc4d373955f6be2fe89e12c";
             string apiUrl = "https://api.openweathermap.org/data/2.5/weather";
 
             List<Weather> weatherData = new List<Weather>();
